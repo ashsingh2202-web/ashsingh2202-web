@@ -30,7 +30,7 @@ Presented epidemiologic findings on demographic disparities among 67 reported Mp
 ---
 
 📫 Connect With Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashima%20Singh-blue?style=flat&logo=linkedin)
-![Email](https://img.shields.io/badge/Email-ashsingh2202%40gmail.com-red?style=flat&logo=gmail)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/ashimasingh-mph)
+![Email](https://img.shields.io/badge/Email-ashsingh2202@gmail.com)
 ---
 Passionate about translating surveillance data into equitable public health action. Open to opportunities in epidemiology, public health research, and health data analytics.
