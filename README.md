@@ -71,7 +71,7 @@ Presented epidemiologic findings on demographic disparities and disease burden u
 
 📧 [ashsingh2202@gmail.com](mailto:ashsingh2202@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/ashimasingh-mph
+💼 [LinkedIn](linkedin.com/in/ashimasingh-mph)
 
 ---
 
